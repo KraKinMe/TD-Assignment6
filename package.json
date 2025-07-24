@@ -1,0 +1,24 @@
+{
+  "name": "assignment-6",
+  "version": "1.0.0",
+  "description": "Assignment 6 for TuteDude",
+  "homepage": "https://github.com/KraKinMe/TD-Assignment6#readme",
+  "bugs": {
+    "url": "https://github.com/KraKinMe/TD-Assignment6/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KraKinMe/TD-Assignment6.git"
+  },
+  "license": "ISC",
+  "author": "Dhruv Agrawal",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon server.js"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
